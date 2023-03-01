@@ -1,0 +1,104 @@
+{
+    "mp3": [
+      {
+        "src": "/3107full.mp3",
+        "name": "3107 Full version",
+        "singer":"W/n x DuongG, Nâu , Titie, Erik",
+        "image": "image/3107.jpg",
+        "id": 1
+      },
+      {
+        "src": "/BuongDoiTayNhauRa.mp3",
+        "name": "Buông Đôi Tay Nhau Ra",
+        "singer":"Sơn Tùng-MTP",
+        "image": "image/buongdoitaynhaura.jpg",
+        "id": 2
+      },
+      {
+        "src": "/chodoicodangso.mp3",
+        "name": "Chờ đợi có đáng sợ",
+        "singer":"Andiez",
+        "image": "image/chodoidaucodangso.jpg",
+        "id": 3
+      },
+      {
+        "src": "/ChungTaCuaHienTai.mp3",
+        "name": "Chúng Ta Của Hiện Tại- lofi",
+        "singer":"MTP x CM1X",
+        "image": "image/chugntacuahientai.jpg",
+        "id": 4
+      },
+      {
+        "src": "/ChungTaCuaSauNay.mp3",
+        "name": " Chúng Ta Của Sau Này",
+        "singer":"T.R.I",
+        "image": "image/chungtacuasaunay.jpg",
+        "id": 5
+      },
+      {
+        "src": "/CuChillThoi.mp3",
+        "name": "Cứ Chill Thôi",
+        "singer":"Chillies ft Suni Hạ Linh & Rhymastic",
+        "image": "image/cuchillthoi.jpg",
+        "id": 6
+      },
+      {
+        "src": "/EmCuaNgayHomQua.mp3",
+        "name": " Em Của Ngày Hôm Qua",
+        "singer":"Sơn Tùng-MTP",
+        "image": "image/emcuangayhomqua.jpg",
+        "id": 7
+      },
+      {
+        "src": "/HayTraoChoAnh.mp3",
+        "name": "Hãy Trao Cho Anh",
+        "singer":"Sơn Tùng-MTP ",
+        "image": "image/hay-trao-cho-anh.jpg",
+        "id": 8
+      },
+      {
+        "src": "/HoaVoSac.mp3",
+        "name": "Hoa Vô Sắc ",
+        "singer":"K-ICM , Jack ",
+        "image": "image/hoavosac.jpg",
+        "id": 9
+      },
+      {
+        "src": "/LacTroi.mp3",
+        "name": "Lạc Trôi ",
+        "singer":"Sơn Tùng-MTP ",
+        "image": "image/lactroi.jpg",
+        "id": 10
+      },
+      {
+        "src": "/LegendsNeverDie.mp3",
+        "name": "Legends Never Die ",
+        "singer":"Against The Curent-World 2017",
+        "image": "image/cktg2017.jpg",
+        "id": 11
+      },
+      {
+        "src": "/SinhRaDaLaThuDoiLapNhau.mp3",
+        "name": "Sinh Ra Đã Là Thứ Đối Lập Nhau ",
+        "singer":"Emcee L (Da LAB) ft. Badbies ",
+        "image": "image/sinhradalathudoilapcuanhau.jpg",
+        "id": 12
+      },
+      {
+        "src": "/suytnuathi.mp3",
+        "name": "Suýt Nữa Thì ",
+        "singer":" Andiez",
+        "image": "image/suytnuathi.jpg",
+        "id": 13
+      },
+      {
+        "src": "/yeunguoicouocmo.mp3",
+        "name": "Yêu Người Có Ước Mơ ",
+        "singer":"buitruonglinh ",
+        "image": "image/yeunguoicouocmo.jpg",
+        "id": 14
+      }
+    ]
+  }
+
+
