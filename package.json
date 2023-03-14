@@ -4,14 +4,14 @@
         "src": "/3107full.mp3",
         "name": "3107 Full version",
         "singer":"W/n x DuongG, Nâu , Titie, Erik",
-        "image": "image/3107.jpg",
+        "image": "/image/3107.jpg",
         "id": 1
       },
       {
         "src": "/BuongDoiTayNhauRa.mp3",
         "name": "Buông Đôi Tay Nhau Ra",
         "singer":"Sơn Tùng-MTP",
-        "image": "image/buongdoitaynhaura.jpg",
+        "image": "/image/buongdoitaynhaura.jpg",
         "id": 2
       },
       {
